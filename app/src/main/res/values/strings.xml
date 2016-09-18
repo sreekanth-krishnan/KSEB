@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">KSEB</string>
+    <string name="consumer_number">Consumer Number</string>
+    <string name="pin">PIN</string>
+    <string name="title_activity_main">KSEB</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="sign_out">Sign out</string>
+    <string name="sign_in">Sign in</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_prompt">Sign in with your consumer number and PIN to view your usage balance.</string>
+    <string name="price">₹ %1$.2f</string>
+    <string name="title_activity_recharge_activity">Recharge</string>
+    <string name="title_activity_payment">Payment</string>
+
+    <string name="units">%1$.3f unit</string>
+</resources>

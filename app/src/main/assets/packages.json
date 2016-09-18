@@ -1,0 +1,37 @@
+{
+  "packages": [
+    {
+      "id": 1,
+      "units": 100,
+      "price": 400,
+      "validity": 30
+    },
+    {
+      "id": 2,
+      "units": 30,
+      "price": 190,
+      "validity": 30
+    },
+    {
+      "id": 3,
+      "units": 200,
+      "price": 700,
+      "validity": 60
+    },
+    {
+      "id": 4,
+      "units": 400,
+      "price": 4200,
+      "validity": 60
+    },
+    {
+      "id": 5,
+      "units": 200,
+      "price": 1000,
+      "validity": 0
+    }
+  ]
+}
+
+
+
